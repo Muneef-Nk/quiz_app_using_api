@@ -1,16 +1,9 @@
 # quiz_app_using_api
 
-A new Flutter project.
+some screenshots
+<img src="https://github.com/Muneef-Nk/quiz_app_using_api/assets/92105703/d411f4ca-b9c9-429f-97fb-6ce8c8326246" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/quiz_app_using_api/assets/92105703/f1296282-1619-4f19-90c6-b85eb2eeea3d" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/quiz_app_using_api/assets/92105703/df681f9f-53f9-4747-8008-b89378bf1b99" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/quiz_app_using_api/assets/92105703/c6dd656c-6d7b-433b-97cb-6266ec0dfe38" width="200" height="400"/>
+<img src="https://github.com/Muneef-Nk/quiz_app_using_api/assets/92105703/12a3a48b-a248-4ead-9fd3-ff65fcff9bcf" width="200" height="400"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
